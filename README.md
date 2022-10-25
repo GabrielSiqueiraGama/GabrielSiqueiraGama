@@ -1,5 +1,14 @@
-### Olá, eu sou Gabriel Siqueira Gama.
+# Olá, eu sou Gabriel Siqueira Gama! 
+  
+  Meu nome é Gabriel Siqueira Gama e eu tenho 18 anos, e estou estudando programação. 🇧🇷 
+  <img  height="120" align="right" src="https://user-images.githubusercontent.com/102556033/197796334-c2515683-9e0e-4060-aa77-37f95455a338.png">
+
+
+
 - 💬 Estudando flutter no momento!
+- 📌 Sou de Balsas - MA
+ ##
+
 <div align="center">
   <a href="https://github.com/GabrielSiqueiraGama">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSiqueiraGama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
