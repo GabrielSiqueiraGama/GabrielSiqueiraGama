@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel Siqueira Gama! 
   
-  Meu nome é Gabriel Siqueira Gama, zhant se preferir e eu tenho 18 anos, e estou estudando programação. 🇧🇷 
+  Meu nome é Gabriel Siqueira Gama e eu tenho 18 anos, e estou estudando programação. 🇧🇷 
   <img  height="120" align="right" src="https://user-images.githubusercontent.com/102556033/197796334-c2515683-9e0e-4060-aa77-37f95455a338.png">
 
 
