@@ -5,9 +5,9 @@
 
 
 
-- 💬 Estudando flutter no momento!
+- <img src="https://github.com/GabrielSiqueiraGama/GabrielSiqueiraGama/blob/main/gatito%20programando.gif" width="32" />&nbsp;&nbsp;&nbsp;Estudando Java e Flutter no momento.
 - 📌 Sou de Balsas - MA
-- <img src="![cat2](https://github.com/GabrielSiqueiraGama/GabrielSiqueiraGama/assets/102556033/05e32346-4363-47ef-9ee6-56ceab94335f)" width = "32"/>
+ <img src="![cat2](https://github.com/GabrielSiqueiraGama/GabrielSiqueiraGama/assets/102556033/05e32346-4363-47ef-9ee6-56ceab94335f)" width = "32"/>
 
  ##
 
