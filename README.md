@@ -1,6 +1,6 @@
-# Olá, eu sou Gabriel Siqueira Gama! 👋 🇧🇷 
+# Aoba! 👋
   
-  Meu nome é Gabriel Siqueira Gama,  estou estudando programação com objetivo de construir uma carreira na área de programação. 
+  Meu nome é Gabriel Siqueira Gama, tenha 21 anos e estou estudando programação com objetivo de construir uma carreira nesta área. 
   <img  height="120" align="right" src="https://user-images.githubusercontent.com/102556033/197796334-c2515683-9e0e-4060-aa77-37f95455a338.png">
 
 
@@ -13,12 +13,11 @@
 
  ##
 ### ⚙️ &nbsp;Minhas Estatísticas
-<div align="center">
-  <a href="https://github.com/GabrielSiqueiraGama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSiqueiraGama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSiqueiraGama&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-    
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSiqueiraGama&count_private=true&show_icons=true&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSiqueiraGama&layout=compact&theme=tokyonight" />
+</p>
+
 ### <p align="left">🛠 Ferramentas e Tecnologias</p>
 
 <div style="display: inline_block" align="center"><br>
@@ -31,7 +30,6 @@
 </div>
 
 ##
-
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-siqueira-gama-613bb7230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
