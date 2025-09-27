@@ -12,8 +12,8 @@ I hold a Bachelor's Degree in Information Systems from Unibalsas - Centro Univer
 
 ## 🌱 I’m currently learning
 
-<img src="assets/united-states-flag-round.svg" alt="EUA flag" width="40" height="40">  
-<img src="assets/spanish-flag-round.svg" alt="Spanish flag" width="40" height="40">
+<img src="assets/united-states-flag-round.svg" alt="EUA flag" width="40" height="40"> B1
+<img src="assets/spanish-flag-round.svg" alt="Spanish flag" width="40" height="40"> A2
 
 ## 🔭 I'm currently working on
 
