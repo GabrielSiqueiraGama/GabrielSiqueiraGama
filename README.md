@@ -6,7 +6,7 @@
 
 <img  height="120" align="right" src="https://user-images.githubusercontent.com/102556033/197796334-c2515683-9e0e-4060-aa77-37f95455a338.png">
 
-My name is Gabriel Siqueira Gama, I'm 21 years old, back-end developer from Brazil. I'm a huge fan of Java, Kotlin, already worked with Laravel, React, Flutter. When I'm not crushing bugs or building dreams, I can be found studying languages (English, Spanish and German are languages that I want to learn. At the moment, my main focus is English, and I’m currently at B1 level.), lifting weights, or in the Church. Always open to collaborate on innovative projects and ideas.
+My name is Gabriel Siqueira Gama, I'm 22 years old, back-end developer from Brazil. I'm a huge fan of Java, already worked with Laravel, React, Flutter. When I'm not crushing bugs or building dreams, I can be found studying languages (English, Spanish and German are languages that I want to learn. At the moment, my main focus is English, and I’m currently at B1 level.), lifting weights, or in the Church. Always open to collaborate on innovative projects and ideas.
 
 I hold a Bachelor's Degree in Information Systems from Unibalsas - Centro Universitário de Balsas (Balsas University Center)
 
